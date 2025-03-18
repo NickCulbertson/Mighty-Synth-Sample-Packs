@@ -1,0 +1,9 @@
+[
+    {
+        "id": "Arduino-Drums",
+        "name": "Arduino Drums",
+        "description": "A great, free Arduino Drums sound pack with chirpy square drum sounds.",
+        "imageURL": "https://raw.githubusercontent.com/NickCulbertson/Mighty-Synth-Sample-Packs/refs/heads/main/soundpacks/Arduino-Drums.png",
+        "downloadURL": "https://raw.githubusercontent.com/NickCulbertson/Mighty-Synth-Sample-Packs/refs/heads/main/soundpacks/Arduino-Drums.zip"
+    }
+]
