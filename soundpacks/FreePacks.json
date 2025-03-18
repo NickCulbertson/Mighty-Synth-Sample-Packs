@@ -1,16 +1,9 @@
 [
     {
-        "id": "1f4a1f59-5d6a-4238-b8f4-1d29e6e5245f",
+        "id": "Arduino-Drums",
         "name": "Arduino Drums",
         "description": "A great, free Arduino Drums sound pack with chirpy square drum sounds.",
         "imageURL": "https://raw.githubusercontent.com/NickCulbertson/Mighty-Synth-Sample-Packs/refs/heads/main/soundpacks/Arduino-Drums.png",
         "downloadURL": "https://raw.githubusercontent.com/NickCulbertson/Mighty-Synth-Sample-Packs/refs/heads/main/soundpacks/Arduino-Drums.zip"
-    },
-    {
-        "id": "2b6c2b65-2d4a-4210-b6d4-1d29e6e5248e",
-        "name": "Free Pack 2",
-        "description": "Another awesome pack for your collection.",
-        "imageURL": "https://raw.githubusercontent.com/NickCulbertson/Mighty-Synth-Sample-Packs/refs/heads/main/soundpacks/freepack1.png",
-        "downloadURL": "https://raw.githubusercontent.com/NickCulbertson/Mighty-Synth-Sample-Packs/refs/heads/main/soundpacks/TestFree.zip"
     }
 ]
